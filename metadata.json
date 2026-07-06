@@ -1,0 +1,6 @@
+{
+  "name": "Noir Stack Ecosystem",
+  "description": "An interactive, highly animated visualization of the Noir Stack cybersecurity and AI platform ecosystem, featuring particle backgrounds, custom hover effects, SVG connections, and responsive flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
